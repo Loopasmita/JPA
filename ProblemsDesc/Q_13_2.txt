@@ -1,0 +1,7 @@
+Assignment for 13-02-2021:
+
+1. https://leetcode.com/problems/add-two-numbers/
+
+2. https://leetcode.com/problems/3sum/
+
+3. https://leetcode.com/problems/generate-parentheses/
